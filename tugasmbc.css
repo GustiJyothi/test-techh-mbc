@@ -14,6 +14,7 @@ body{
 
 }
 
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -171,6 +172,7 @@ h2 {
 .division p {
     color: #000; 
 }
+
 
 /*halaman contact*/
 .kontak-section {
@@ -336,7 +338,3 @@ h2 {
 .container, .kontak-section, .profile-section {
     margin-top: 80px;
 }
-
-
-
-
